@@ -1,0 +1,16 @@
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+  h3{
+  	text-align: center;
+  }
+  .collection-header-mine{
+  	background-color: #455a64;
+  }
+   
